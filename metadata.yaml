@@ -34,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5380
 description: Mateo Falcone.--L'enlèvement de la redoute.--Tamango.--Le coup de pistolet,
   traduit de Pouchkine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14115#Quatre-contes-de-Prosper-M-rim-e
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2004-11-22'
 gutenberg_type: Text
