@@ -1,0 +1,54 @@
+_repo: Quatre-contes-de-Prosper-M-rim-e_14115
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Пушкин, Александр Сергеевич
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+  editor:
+    agent_name: Van Steenderen, Frederic Cornelius Leonard
+    alias: Steenderen, Frederic Cornelius Leonard Van
+    birthdate: 1864
+    gutenberg_agent_id: '5380'
+    url: http://www.gutenberg.org/2009/agents/5380
+description: Mateo Falcone.--L'enlèvement de la redoute.--Tamango.--Le coup de pistolet,
+  traduit de Pouchkine.
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14115'
+language:
+- fr
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+tableOfContents: Mateo Falcone -- L'enlèvement de la redoute -- Tamango -- Le coup
+  de pistolet, traduit de Pouchkine.
+title: Quatre contes de Prosper Mérimée
+url: http://www.gutenberg.org/ebooks/14115
