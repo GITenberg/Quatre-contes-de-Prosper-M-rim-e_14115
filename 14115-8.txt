@@ -12,6 +12,7 @@ Title: Quatre contes de Prosper Mérimée
 Author: F. C. L. Van Steenderen
 
 Release Date: November 22, 2004 [EBook #14115]
+[Last updated: March 22, 2016]
 
 Language: French / English
 
@@ -1295,7 +1296,7 @@ surpris par un calme, que deviendrait-on sans eau?
 of over 122,000 inhabitants.]
 
 [Footnote 2: *Sénégal*, a French colony in western Africa. Capital:
-St. Louis. It bas belonged to France since the seventeenth century.
+St. Louis. It has belonged to France since the seventeenth century.
 Since 1854 it has been greatly developed.]
 
 _L'Espérance_ partit donc un vendredi, bien gréée et bien équipée
@@ -1483,7 +1484,7 @@ l'herbe, à l'ombre, et dormit pour cuver son eau-de-vie.
 Quand il se réveilla, le vaisseau était déjà sous voiles et descendait
 la rivière. Tamango, la tête encore embarrassée de la débauche de la
 veille, demanda sa femme Ayché. On lui répondit qu'elle avait eu
-le malheur de lui déplaire, et qu'il l'avait donnée en présent an
+le malheur de lui déplaire, et qu'il l'avait donnée en présent au
 capitaine blanc, lequel l'avait emmenée à son bord. A cette nouvelle,
 Tamango stupéfait se frappa la tête, puis il prit son fusil, et, comme
 la rivière faisait plusieurs détours avant de se décharger dans la
@@ -1922,7 +1923,7 @@ Tous les noirs baissèrent la tête avec respect et se serrèrent autour
 de lui.
 
 --Les blancs, poursuivit Tamango, connaissent seuls les paroles
-puissantes qui fout remuer ces grandes maisons de bois; mais nous
+puissantes qui font remuer ces grandes maisons de bois; mais nous
 pouvons diriger à notre gré ces barques légères qui ressemblent à
 celles de notre pays.
 
@@ -2017,7 +2018,7 @@ histoire. Il dit ce qu'il en savait. Les planteurs de l'île voulaient
 qu'on le pendît comme un nègre rebelle; mais le gouverneur, qui était
 un homme humain, s'intéressa à lui, trouvant son cas justifiable,
 puisque, après tout, il n'avait fait qu'user du droit légitime de
-défense; et puis ceux qu'il avait tués n'étaient que des Français. Ou
+défense; et puis ceux qu'il avait tués n'étaient que des Français. On
 le traita comme on traite les nègres pris à bord d'un vaisseau négrier
 que l'on confisque. On lui donna la liberté, c'est-à-dire qu'on le fit
 travailler pour le gouvernement; mais il avait six sous par jour et la
@@ -4847,7 +4848,7 @@ _n. f._, left hand.
 *grimace*, _f_., grimace.
      _faire la ----_, to make a face, grin.
 
-*grippe*, _f_.,dislike, whim.
+*grippe*, _f_., dislike, whim.
      _prendre en ----_, to take a dislike to.
 
 *gris*, gray, gloomy, angry.
